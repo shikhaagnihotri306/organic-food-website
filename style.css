@@ -1,0 +1,29 @@
+.shikha{
+  background-color:#4F091D;
+  border:2px;
+  height: 500px;
+}
+.pic1{
+  height:250px;
+  width:200px;
+}
+.organic:hover{
+  color:yellow;
+}
+.section{
+  background-color:yellow;
+  border:3px;
+  height: 300px;
+  padding auto:50px;
+}
+.rishav{
+  background-color:#FFA1C9;
+  border:2px;
+  height:200px;
+}
+.carousel{
+  margin-left: 20px;
+  margin-right: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
